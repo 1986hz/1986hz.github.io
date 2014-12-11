@@ -10,4 +10,6 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username: 1986hz
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
+kramdown:
+  input: GFM

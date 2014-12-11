@@ -77,6 +77,7 @@ Github의 Pages는 **개인/조직 Pages**와 **프로젝트 Pages**로 나뉜�
 
 
 ## 로컬에 jekyll로 블로그 만들기
+
 1. 터미널에서 `c:\`를 입력하여 c:\로 이동한다.
     > 다른경로를 사용하여도 상관없다!
 2. 터미널에서 `jekyll new 아이디.github.io`를 입력하여 `아이디.github.io`폴더를 만들고 jekyll에서 사용하는 각종파일을 설치한다.
